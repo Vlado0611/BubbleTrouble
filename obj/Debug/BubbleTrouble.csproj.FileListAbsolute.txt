@@ -1,0 +1,13 @@
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\bin\Debug\BubbleTrouble.exe.config
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\bin\Debug\BubbleTrouble.exe
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\bin\Debug\BubbleTrouble.pdb
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.Form1.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.Properties.Resources.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.csproj.GenerateResource.cache
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.csproj.CoreCompileInputs.cache
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.exe
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.pdb
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.MainMenu.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.InsertUsername.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.Scoreboard.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Bubble Trouble\BubbleTrouble\obj\Debug\BubbleTrouble.csprojAssemblyReference.cache
