@@ -28,7 +28,7 @@ namespace BubbleTrouble
         {
             InitializeComponent();
             this.lblGameOver.Hide(); // krijemo gameover labelu
-            this.congrats.Hide(); // krijemo gameover labelu
+            this.congrats.Hide(); // krijemo congrats labelu
             this.BackgroundImage = Properties.Resources.landscape2;
             this.BackColor = Color.White;
             this.BackgroundImageLayout = ImageLayout.Center;
@@ -154,11 +154,11 @@ namespace BubbleTrouble
                     this.countdownTimer.Enabled = true;
                     this.moveTimer.Enabled = true;
                 }else
-                {
-                   /* MakeBalloon(level, 150, 100, 1);
+                {   /*
+                    MakeBalloon(level, 150, 100, 1);
                     Balloon.count += ((int)Math.Pow(2, level) - 1); // novi balon
                     */
-                    }
+                }
             }
         }
 

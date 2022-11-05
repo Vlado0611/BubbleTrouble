@@ -13,7 +13,7 @@ namespace BubbleTrouble
         int speedX = 4; // brzina kretanja balona
         int speedY = 0; // koristim 2 promjenljive, jednu za gore dolje, drugu za lijevo desno
         bool ind = false;// govori da li se frame preskocio, tj da li je doslo do promjene pravca lopte
-        int tempSpeed = 0; // sluzi da upamti vrijednost  speedY u frameu koji se preskace
+        int tempSpeed = 0; // sluzi da upamti vrijednost speedY u frameu koji se preskace
         
         int maxHeight; // maksimalna visina koju balon moze da dostigne
         RoundPB balloon; // potrebno za pravljenje okruglog pictureboxa
@@ -96,7 +96,7 @@ namespace BubbleTrouble
             }
             else
             {
-                // ovdje ulazi kada je jedan frame "preskocen", tj kada balon promijeni pravac, i ne stigne da se vrijednost brzine u trenutku promjene pravca
+                // ovdje ulazi kada je jedan frame "preskocen", tj kada balon promijeni pravac, i ne stigne da se promijeni vrijednost brzine u trenutku promjene pravca
                 balloon.Left += speedX;
                 if (balloon.Left <= this.left.Width || balloon.Left + radius + Convert.ToInt32(radius / 3) >= (form1.Size.Width - this.right.Width))
                     speedX = -speedX;
@@ -151,6 +151,7 @@ namespace BubbleTrouble
             balloonTimer.Dispose();
 
             balloon.Dispose();
+            
 
             balloonTimer = null;
             balloon = null;
